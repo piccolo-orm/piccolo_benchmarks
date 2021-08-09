@@ -1,2 +1,2 @@
-# piccolo_performance
+# Piccolo Benchmarks
 Piccolo performance tests
